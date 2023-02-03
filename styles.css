@@ -5,6 +5,7 @@
 .center {
   display: block;
   text-decoration: none;
+  color:   #037dd6;
   text-align: center;
   position: fixed;
   top: 50%;
@@ -25,6 +26,7 @@
 
 #response-text {
   transition-duration: 200ms;
+    color: #037dd6;
   opacity: 0;
   visibility: hidden;
 }
