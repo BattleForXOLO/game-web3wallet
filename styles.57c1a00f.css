@@ -3,7 +3,6 @@
 }
 
 .center {
-  background-color: #15161A;
   display: block;
   text-decoration: none;
   text-align: center;
@@ -34,7 +33,9 @@
   opacity: 1;
   visibility: visible;
 }
-
+body {
+ background-color: #15161A;
+}
 #response-button {
   border: none;
   transition-duration: 200ms;
@@ -62,4 +63,4 @@
 }
 
 
-/*# sourceMappingURL=/game-web3wallet/styles.c7d417ec.css.map */
+/*# sourceMappingURL=/game-web3wallet/styles.57c1a00f.css.map */
